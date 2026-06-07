@@ -1,0 +1,19 @@
+{
+  "name": "react-class-pagination-hard-task",
+  "version": "1.0.0",
+  "description": "React class components project for refactoring pagination to functional components with hooks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {}
+}
